@@ -357,3 +357,6 @@ venv/
 sweep/
 
 lightning_logs
+wandb
+logs
+*.ckpt
